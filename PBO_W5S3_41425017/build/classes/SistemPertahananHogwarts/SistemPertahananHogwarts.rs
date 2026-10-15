@@ -1,0 +1,6 @@
+SistemPertahananHogwarts.SistemPertahanan
+SistemPertahananHogwarts.Protego
+SistemPertahananHogwarts.MantraAntiApparition
+SistemPertahananHogwarts.SistemPertahananHogwarts
+SistemPertahananHogwarts.MantraPerlindungan
+SistemPertahananHogwarts.Fidelius
